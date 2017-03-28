@@ -5,3 +5,5 @@ function parallax (){
 	image.style.top= ypos* .4 + "px";
 }
 window.addEventListener('scroll',parallax);
+//hellopl
+jniml ,.
